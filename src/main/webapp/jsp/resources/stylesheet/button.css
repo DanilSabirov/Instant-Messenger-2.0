@@ -1,0 +1,10 @@
+input[type=submit] {
+    width: 200px;
+    height: 35px;
+    font-size: 25px;
+    margin: 5px 0px 5px 0px;
+    border-radius: 10px;
+    background-color: #90f7ff ;
+    border-color: aqua;
+    font-family: Georgia;
+}
